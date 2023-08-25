@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
 <h3 align="center">A design-oriented engineer that works in web frontend, games, shaders, and other interactive experiences.</h3>
 
-- 📫 How to reach me: <a href="mailto:mail@seansong.dev" style="text-decoration: none;"><b>mail@seansong.dev</b></a>
 
-- ⚡ Fun fact: **I love birds :~)**
+### <img height=20 src="./parrot.gif" /> About me:
+
+```ts
+const sean: CoolGuy = {
+    worksAt: 'Pandora',
+    email: 'mail@seansong.dev',
+    likes: [ 'archery', 'beer', 'climbing', 'cooking',  'vinyl', 'wood-working' ],
+    loves: 'birds', // 🦜
+    learning: [ '3d-printing', 'guitar' ],
+}
+```
 
 <!-- <p align="left">
     <img src="https://komarev.com/ghpvc/?username=inferrinizzard&label=Profile%20views&color=0e75b6&style=flat" alt="inferrinizzard" />
@@ -13,7 +22,7 @@
 <!-- ![](https://readme-now-playing.vercel.app/now-playing/q?uid=sfo1::l66nb-1692993313446-e05674810897) -->
 
 
-## The stacks I work with:
+## 🛠️ The stacks I work with:
 
 <section markdown="1" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-evenly;">
     <div markdown="1" style="width: 120px">
