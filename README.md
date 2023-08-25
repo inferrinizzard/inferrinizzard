@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![inferrinizzard's GitHub Stats](https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&theme=algolia&show_icons=true&rank_icon=github&include_all_commits=true#gh-dark-mode-only)
+![inferrinizzard's GitHub Stats](https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&theme=vue&show_icons=true&rank_icon=github&include_all_commits=true#gh-light-mode-only)
+![inferrinizzard's Top Langs](https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&theme=algolia&size_weight=1&count_weight=8&langs_count=10&layout=compact)
+![ucsc-catalogue-frontend](https://github-readme-stats.inferrinizzard.vercel.app/api/pin?username=inferrinizzard&repo=ucsc-catalogue-frontend&theme=react)
+![sql-formatter](https://github-readme-stats.inferrinizzard.vercel.app/api/pin?username=sql-formatter-org&repo=sql-formatter&theme=vue-dark&show_owner=true)
