@@ -26,8 +26,9 @@ const sean = {
 
 ## 🛠️ The stacks I work with:
 
-<section markdown="1" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-evenly;">
-    <div markdown="1" style="width: 120px">
+<div markdown="1">
+<section style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-evenly;">
+    <div style="width: 120px">
         <h4 align="center">Frontend</h4>
         <div style="display: flex; flex-wrap: wrap;">
             <img width=50 style="padding: 5px" title="TypeScript" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
@@ -36,7 +37,7 @@ const sean = {
             <img width=50 style="padding: 5px" title="Redux" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'>
         </div>
     </div>
-    <div markdown="1" style="width: 120px">
+    <div style="width: 120px">
         <h4 align="center">Backend</h4>
         <div style="display: flex; flex-wrap: wrap;">
             <img width=50 style="padding: 5px" title="NodeJS" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
@@ -45,7 +46,7 @@ const sean = {
             <img width=50 style="padding: 5px" title="Flask" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg'>
         </div>
     </div>
-    <div markdown="1" style="width: 120px">
+    <div style="width: 120px">
         <h4 align="center">Data</h4>
         <div style="display: flex; flex-wrap: wrap;">
             <img width=50 style="padding: 5px" title="PostgreSQL" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
@@ -53,7 +54,7 @@ const sean = {
             <!-- <img width=50 style="padding: 5px" title="icons" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" /> -->
         </div>
     </div>
-    <div markdown="1" style="width: 120px">
+    <div style="width: 120px">
         <h4 align="center">Games</h4>
         <div style="display: flex; flex-wrap: wrap;">
             <img width=50 style="padding: 5px" title="Cnity" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg'>
@@ -62,7 +63,7 @@ const sean = {
             <img width=50 style="padding: 5px" title="OpenGL" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg'>
         </div>
     </div>
-    <div markdown="1" style="width: 120px">
+    <div style="width: 120px">
         <h4 align="center">ML</h4>
         <div style="display: flex; flex-wrap: wrap;">
             <img width=50 style="padding: 5px" title="Python" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
@@ -70,7 +71,7 @@ const sean = {
             <img width=50 style="padding: 5px" title="Jupyter" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg'>
         </div>
     </div>
-    <div markdown="1" style="width: 120px">
+    <div style="width: 120px">
         <h4 align="center">Design</h4>
         <div style="display: flex; flex-wrap: wrap;">
             <img width=50 style="padding: 5px" title="Photoshop" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg'>
@@ -80,6 +81,7 @@ const sean = {
         </div>
     </div>
 </section>
+</div>
 
 
 <!-- <p align="left">
