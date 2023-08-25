@@ -9,7 +9,11 @@
     <img src="https://komarev.com/ghpvc/?username=inferrinizzard&label=Profile%20views&color=0e75b6&style=flat" alt="inferrinizzard" />
 </p> -->
 
-<h3>The stacks I work with:</h3>
+
+<!-- ![](https://readme-now-playing.vercel.app/now-playing/q?uid=sfo1::l66nb-1692993313446-e05674810897) -->
+
+
+## The stacks I work with:
 
 <section markdown="1" style="display: flex; flex-wrap: wrap; gap: 10px">
     <div markdown="1" style="width: 100px">
@@ -67,27 +71,33 @@
 </section>
 
 
-<p align="left">
+<!-- <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=inferrinizzard" alt="inferrinizzard" />
     </a>
-</p>
+</p> -->
 
+## 📊 GitHub Stats
 
-<a href="https://github.com/inferrinizzard">
-    <picture>
-        <source
-            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=algolia"
-            media="(prefers-color-scheme: dark)"
-        />
-        <source
-            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=vue"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true" />
-    </picture>
-</a>
-<img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&theme=algolia&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345" />
+<details>
+    <summary>Click for stats</summary>
+    <a href="https://github.com/inferrinizzard">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=algolia"
+                media="(prefers-color-scheme: dark)"
+            />
+            <source
+                srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=vue"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+            />
+            <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true" />
+        </picture>
+    </a>
+    <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&theme=algolia&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345" />
+</details>
+
+## ✨ Highlight Repos
 
 <a href="https://github.com/inferrinizzard/ucsc-catalogue-frontend">
     <img align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api/pin?username=inferrinizzard&repo=ucsc-catalogue-frontend&theme=react" />
