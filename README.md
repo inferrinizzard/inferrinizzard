@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sean</h1>
 <h3 align="center">A design-oriented engineer that works in web frontend, games, shaders, and other interactive experiences.</h3>
 
+[![GitHub: inferrinizzard](https://img.shields.io/badge/-inferrinizzard-181717?style=flat&logo=GitHub&logoColor=white&link=https://github.com/inferrinizzard/)](https://github.com/inferrinizzard/)
+[![Linkedin: sean-song-dev](https://img.shields.io/badge/-sean--song--dev-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sean-song-dev/)](https://www.linkedin.com/in/sean-song-dev/)
+[![Gmail: mail@seansong.dev](https://img.shields.io/badge/-mail@seansong.dev-red?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@seansong.dev)](mailto:mail@seansong.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=inferrinizzard&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ### <img height=20 src="./parrot.gif" /> About me:
 
@@ -14,9 +19,6 @@ const sean = {
 }
 ```
 
-<!-- <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=inferrinizzard&label=Profile%20views&color=0e75b6&style=flat" alt="inferrinizzard" />
-</p> -->
 
 
 <!-- ![](https://readme-now-playing.vercel.app/now-playing/q?uid=sfo1::l66nb-1692993313446-e05674810897) -->
