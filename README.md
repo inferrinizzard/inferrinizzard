@@ -5,7 +5,7 @@
 ### <img height=20 src="./parrot.gif" /> About me:
 
 ```ts
-const sean: CoolGuy = {
+const sean = {
     worksAt: 'Pandora',
     email: 'mail@seansong.dev',
     likes: [ 'archery', 'beer', 'climbing', 'cooking',  'vinyl', 'wood-working' ],
