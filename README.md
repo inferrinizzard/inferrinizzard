@@ -26,61 +26,68 @@ const sean = {
 
 ## 🛠️ The stacks I work with:
 
-<section markdown="1" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-evenly;">
-    <div markdown="1" style="width: 120px">
-        <h4 align="center">Frontend</h4>
-        <div style="display: flex; flex-wrap: wrap;">
+<table align="center">
+    <tr>
+        <td>
+            Frontend
+        </td>
+        <td>
+            Backend
+        </td>
+        <td>
+            Data
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img width=50 style="padding: 5px" title="TypeScript" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
             <img width=50 style="padding: 5px" title="NextJS" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
             <img width=50 style="padding: 5px" title="React" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
             <img width=50 style="padding: 5px" title="Redux" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'>
-        </div>
-    </div>
-    <div markdown="1" style="width: 120px">
-        <h4 align="center">Backend</h4>
-        <div style="display: flex; flex-wrap: wrap;">
+        </td>
+        <td>
             <img width=50 style="padding: 5px" title="NodeJS" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
             <img width=50 style="padding: 5px" title="Webpack" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg'> <!-- should be vite -->
             <img width=50 style="padding: 5px" title="Express" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg'>
             <img width=50 style="padding: 5px" title="Flask" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg'>
-        </div>
-    </div>
-    <div markdown="1" style="width: 120px">
-        <h4 align="center">Data</h4>
-        <div style="display: flex; flex-wrap: wrap;">
+        </td>
+        <td>
             <img width=50 style="padding: 5px" title="PostgreSQL" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
             <img width=50 style="padding: 5px" title="GCP" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg'>
             <!-- <img width=50 style="padding: 5px" title="icons" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" /> -->
-        </div>
-    </div>
-    <div markdown="1" style="width: 120px">
-        <h4 align="center">Games</h4>
-        <div style="display: flex; flex-wrap: wrap;">
-            <img width=50 style="padding: 5px" title="Cnity" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg'>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Games
+        </td>
+        <td>
+            ML
+        </td>
+        <td>
+            Data
+        </td>
+    </tr>
+    <tr>
+        <td>
+             <img width=50 style="padding: 5px" title="Unity" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg'>
             <img width=50 style="padding: 5px" title="C#" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg'>
             <img width=50 style="padding: 5px" title="Rust" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg'>
             <img width=50 style="padding: 5px" title="OpenGL" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-plain.svg'>
-        </div>
-    </div>
-    <div markdown="1" style="width: 120px">
-        <h4 align="center">ML</h4>
-        <div style="display: flex; flex-wrap: wrap;">
+        </td>
+        <td>
             <img width=50 style="padding: 5px" title="Python" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'>
             <img width=50 style="padding: 5px" title="TensorFlow" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg'>
             <img width=50 style="padding: 5px" title="Jupyter" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg'>
-        </div>
-    </div>
-    <div markdown="1" style="width: 120px">
-        <h4 align="center">Design</h4>
-        <div style="display: flex; flex-wrap: wrap;">
+        </td>
+        <td>
             <img width=50 style="padding: 5px" title="Photoshop" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg'>
             <img width=50 style="padding: 5px" title="Illustrator" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg'>
             <img width=50 style="padding: 5px" title="Figma" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg'>
             <img width=50 style="padding: 5px" title="Blender" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg'>
-        </div>
-    </div>
-</section>
-
+        </td>
+    </tr>
+</table>
 
 <!-- <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -92,20 +99,28 @@ const sean = {
 
 <details>
     <summary>Click for stats</summary>
-    <a href="https://github.com/inferrinizzard">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=algolia"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=vue"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true" />
-        </picture>
-    </a>
-    <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&theme=algolia&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345" />
+    <picture>
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=algolia"
+            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        />
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=vue"
+            media="(prefers-color-scheme: light)"
+        />
+        <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345&theme=algolia"
+            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        />
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345&theme=vue"
+            media="(prefers-color-scheme: light)"
+        />
+        <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&theme=algolia&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345" />
+    </picture>
 </details>
 
 ## ✨ Highlight Repos
