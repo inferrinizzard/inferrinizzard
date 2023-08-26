@@ -99,20 +99,28 @@ const sean = {
 
 <details>
     <summary>Click for stats</summary>
-    <a href="https://github.com/inferrinizzard">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=algolia"
-                media="(prefers-color-scheme: dark)"
-            />
-            <source
-                srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=vue"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            />
-            <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true" />
-        </picture>
-    </a>
-    <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&theme=algolia&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345" />
+    <picture>
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=algolia"
+            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        />
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true&theme=vue"
+            media="(prefers-color-scheme: light)"
+        />
+        <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api?username=inferrinizzard&show_icons=true&rank_icon=github&include_all_commits=true" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345&theme=algolia"
+            media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+        />
+        <source
+            srcset="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345&theme=vue"
+            media="(prefers-color-scheme: light)"
+        />
+        <img height=200 align="center" src="https://github-readme-stats.inferrinizzard.vercel.app/api/top-langs/?username=inferrinizzard&theme=algolia&size_weight=1&count_weight=8&langs_count=10&layout=compact&card_width=345" />
+    </picture>
 </details>
 
 ## ✨ Highlight Repos
