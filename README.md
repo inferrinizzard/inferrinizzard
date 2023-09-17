@@ -65,7 +65,7 @@ const sean = {
             ML
         </td>
         <td>
-            Data
+            Design
         </td>
     </tr>
     <tr>
